@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "399567733526",
+    "project_id": "journaling-app-ai",
+    "storage_bucket": "journaling-app-ai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399567733526:android:0dc49ce8456082a2504637",
+        "android_client_info": {
+          "package_name": "com.emotions.journaling.emotions_journaling"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLzb8P3m-ob9nVnXJWfiahttegNzzvnsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
